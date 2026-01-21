@@ -13,7 +13,8 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "express-oauth2-jwt-bearer": "^1.7.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
