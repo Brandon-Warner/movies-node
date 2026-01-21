@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "watched": true
+  },
+  {
+    "id": 2,
+    "title": "Dune: Part Two",
+    "watched": false
+  }
+]
