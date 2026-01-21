@@ -1,27 +1,52 @@
 [
-  {
-    "id": 1,
-    "title": "Inception",
-    "watched": false
-  },
-  {
-    "id": 2,
-    "title": "Dune: Part Two",
-    "watched": false
-  },
-  {
-    "id": 3,
-    "title": "The Godfather",
-    "watched": false
-  },
-  {
-    "id": 4,
-    "title": "Dune: Part One",
-    "watched": false
-  },
-  {
-    "id": 5,
-    "title": "Once Upon a Time in Hollywood",
-    "watched": false
-  }
+  { "id": 1, "title": "The Shawshank Redemption", "watched": true },
+  { "id": 2, "title": "The Godfather", "watched": false },
+  { "id": 3, "title": "The Dark Knight", "watched": true },
+  { "id": 4, "title": "Pulp Fiction", "watched": false },
+  { "id": 5, "title": "Forrest Gump", "watched": true },
+  { "id": 6, "title": "Inception", "watched": false },
+  { "id": 7, "title": "The Lord of the Rings: The Fellowship of the Ring", "watched": true },
+  { "id": 8, "title": "The Matrix", "watched": false },
+  { "id": 9, "title": "Interstellar", "watched": true },
+  { "id": 10, "title": "Spirited Away", "watched": false },
+  { "id": 11, "title": "Parasite", "watched": true },
+  { "id": 12, "title": "Gladiator", "watched": false },
+  { "id": 13, "title": "The Lion King", "watched": true },
+  { "id": 14, "title": "Blade Runner 2049", "watched": false },
+  { "id": 15, "title": "Whiplash", "watched": true },
+  { "id": 16, "title": "Django Unchained", "watched": false },
+  { "id": 17, "title": "Coco", "watched": true },
+  { "id": 18, "title": "Arrival", "watched": false },
+  { "id": 19, "title": "Eternal Sunshine of the Spotless Mind", "watched": true },
+  { "id": 20, "title": "La La Land", "watched": false },
+  { "id": 21, "title": "Joker", "watched": true },
+  { "id": 22, "title": "Mad Max: Fury Road", "watched": false },
+  { "id": 23, "title": "Spider-Man: Into the Spider-Verse", "watched": true },
+  { "id": 24, "title": "Knives Out", "watched": false },
+  { "id": 25, "title": "The Grand Budapest Hotel", "watched": true },
+  { "id": 26, "title": "Her", "watched": false },
+  { "id": 27, "title": "A Star Is Born", "watched": true },
+  { "id": 28, "title": "Guardians of the Galaxy", "watched": false },
+  { "id": 29, "title": "Back to the Future", "watched": true },
+  { "id": 30, "title": "The Princess Bride", "watched": false },
+  { "id": 31, "title": "E.T. the Extra-Terrestrial", "watched": true },
+  { "id": 32, "title": "Jurassic Park", "watched": false },
+  { "id": 33, "title": "Toy Story", "watched": true },
+  { "id": 34, "title": "Finding Nemo", "watched": false },
+  { "id": 35, "title": "The Incredibles", "watched": true },
+  { "id": 36, "title": "Ratatouille", "watched": false },
+  { "id": 37, "title": "Up", "watched": true },
+  { "id": 38, "title": "WALL-E", "watched": false },
+  { "id": 39, "title": "Zootopia", "watched": true },
+  { "id": 40, "title": "Moana", "watched": false },
+  { "id": 41, "title": "Your Name.", "watched": true },
+  { "id": 42, "title": "Akira", "watched": false },
+  { "id": 43, "title": "Ghost in the Shell", "watched": true },
+  { "id": 44, "title": "Princess Mononoke", "watched": false },
+  { "id": 45, "title": "Perfect Blue", "watched": true },
+  { "id": 46, "title": "Nausicaä of the Valley of the Wind", "watched": false },
+  { "id": 47, "title": "The Girl Who Leapt Through Time", "watched": true },
+  { "id": 48, "title": "Wolf Children", "watched": false },
+  { "id": 49, "title": "Summer Wars", "watched": true },
+  { "id": 50, "title": "Mirai", "watched": false }
 ]
