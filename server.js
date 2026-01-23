@@ -5,14 +5,14 @@ const cors = require('cors');
 const { auth, requiredScopes } = require('express-oauth2-jwt-bearer'); // Import auth and requiredScopes
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const MOVIES_FILE = path.join(__dirname, 'data', 'movies.json');
 
 // --- Auth0 Configuration ---
 // This middleware will check for a valid JWT in the Authorization header.
 const checkJwt = auth({
-  audience: 'https://movies.example.com', // The identifier of your Auth0 API
-  issuerBaseURL: 'https://movies-demo.us.auth0.com' // Your Auth0 domain
+  audience: process.env.AUTH0_AUDIENCE || 'https://movies.example.com', // The identifier of your Auth0 API
+  issuerBaseURL: process.env.AUTH0_ISSUER_BASE_URL || 'https://movies-demo.us.auth0.com' // Your Auth0 domain
 });
 
 // Custom middleware to check permissions from the token's permissions array
